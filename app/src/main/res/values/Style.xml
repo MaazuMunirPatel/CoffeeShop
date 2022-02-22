@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- this style tag is used for designing themes.-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#009688</item><!-- this item tag is used for colring app bar.-->
+        <item name="colorPrimaryDark">#00796B</item><!-- this item tag is used for colring status  bar and contexual bars.-->
+        <item name="colorAccent">#536DFE</item><!-- this item tag is used for colring UI boxes ,checkboxes.-->
+    </style>
+    <style name="HeaderTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>
